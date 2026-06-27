@@ -1,0 +1,156 @@
+# Copyright (C) 2026 HAKICMS TEAM
+# This file is distributed under the same license as the HakiCMS FREE plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HakiCMS 4.0.0\n"
+"Report-Msgid-Bugs-To: https://hakicms.com/support\n"
+"POT-Creation-Date: 2026-06-24 14:00+0000\n"
+"PO-Revision-Date: 2026-06-24 14:00+0000\n"
+"Last-Translator: VŨ TRUNG KIÊN <kien@trungkienvu.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: hakicms\n"
+
+#: hakicms.php
+msgid "Settings"
+msgstr "Settings"
+
+#: hakicms.php
+msgid "Get HakiCMS Pro"
+msgstr "Get HakiCMS Pro"
+
+#: hakicms.php
+msgid "Docs & FAQs"
+msgstr "Docs & FAQs"
+
+#: hakicms.php
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "HakiCMS Command Center"
+msgstr "HakiCMS Command Center"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Refresh Stats"
+msgstr "Refresh Stats"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Free Plan Usage: %1$d / %2$d Courses"
+msgstr "Free Plan Usage: %1$d / %2$d Courses"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Limit Reached"
+msgstr "Limit Reached"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Total Enrolled"
+msgstr "Total Enrolled"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Published Lessons"
+msgstr "Published Lessons"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Active Courses Performance"
+msgstr "Active Courses Performance"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Course Name"
+msgstr "Course Name"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Students"
+msgstr "Students"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Actions"
+msgstr "Actions"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Manage"
+msgstr "Manage"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "No courses found. Start creating!"
+msgstr "No courses found. Start creating!"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Data Migration"
+msgstr "Data Migration"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Migrate from MyCAM"
+msgstr "Migrate from MyCAM"
+
+#: admin/class-hakicms-admin-settings.php
+msgid "Start Migration Process"
+msgstr "Start Migration Process"
+
+#: admin/class-hakicms-user-manager.php
+msgid "HakiCMS - Manual Enrollment"
+msgstr "HakiCMS - Manual Enrollment"
+
+#: admin/class-hakicms-user-manager.php
+msgid "Enrolled Courses (Categories)"
+msgstr "Enrolled Courses (Categories)"
+
+#: admin/class-hakicms-user-manager.php
+msgid "No categories found."
+msgstr "No categories found."
+
+#: includes/class-hakicms-shortcodes.php
+msgid "DASHBOARD BÀI HỌC"
+msgstr "LESSON DASHBOARD"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "COURSE CURRICULUM"
+msgstr "COURSE CURRICULUM"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "Lesson"
+msgstr "Lesson"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "Please %s to view dashboard."
+msgstr "Please %s to view dashboard."
+
+#: includes/class-hakicms-shortcodes.php
+msgid "login"
+msgstr "login"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "Membership Tier:"
+msgstr "Membership Tier:"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "Standard User"
+msgstr "Standard User"
+
+#: includes/class-hakicms-shortcodes.php
+msgid "%1$d/%2$d lessons (%3$d%%)"
+msgstr "%1$d/%2$d lessons (%3$d%%)"
+
+#: includes/class-hakicms-post-types.php
+msgid "Course Templates"
+msgstr "Course Templates"
+
+#: includes/class-hakicms-post-types.php
+msgid "Course Settings"
+msgstr "Course Settings"
+
+#: includes/class-hakicms-gatekeeper.php
+msgid "This content is reserved for enrolled students. Please purchase the course to continue."
+msgstr "This content is reserved for enrolled students. Please purchase the course to continue."
+
+#: includes/class-hakicms-gatekeeper.php
+msgid "Enroll / Upgrade Access"
+msgstr "Enroll / Upgrade Access"
